@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Started a journey towards a career as a data engineer
+
+Certificates from courses:
+
+Complete SQL and Databases Bootcamp: Zero to Mastery
+https://www.udemy.com/certificate/UC-920132c5-ad71-417f-869e-4242df71016b/
+
+Relational Database
+https://www.freecodecamp.org/certification/larsskaret/relational-database-v8
+
+Scientific Computing with Python
+https://www.freecodecamp.org/certification/larsskaret/scientific-computing-with-python-v7
 <!--
 **larsskaret/larsskaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
