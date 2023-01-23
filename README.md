@@ -2,6 +2,9 @@
 
 Started a journey towards a career as a data engineer
 
+Currently working with
+https://github.com/DataTalksClub/data-engineering-zoomcamp
+
 Certificates from courses:
 
 Complete SQL and Databases Bootcamp: Zero to Mastery
