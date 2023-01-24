@@ -2,7 +2,7 @@
 
 Started a journey towards a career as a data engineer
 
-Currently working with
+Currently working on
 https://github.com/DataTalksClub/data-engineering-zoomcamp
 
 Certificates from courses:
