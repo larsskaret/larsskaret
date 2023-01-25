@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Started a journey towards a career as a data engineer
+Started a learning journey in the data engineer domain.
 
 Currently working on
 https://github.com/DataTalksClub/data-engineering-zoomcamp
