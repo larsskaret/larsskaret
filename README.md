@@ -31,6 +31,7 @@ Terraform
 Prefect
 
 GCP: VM, GCS and BigQuery
+
 dbt
 
 Spark
