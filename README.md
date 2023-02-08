@@ -3,29 +3,45 @@
 Started a learning journey in the data engineer domain.
 
 Currently working on
+
 https://github.com/DataTalksClub/data-engineering-zoomcamp
 
-Topics: 
+**Topics:**
+
 Hands on end to end data pipeline using cloud.
 
 Workflow Orchestration
+
 Data Warehouse
+
 Analytics Engineering
+
 Batch processing
+
 Streaming
+
 Create own end to end data pipeline project
 
-Tools:
+**Tools:**
+
 Docker
+
 Terraform
+
 Prefect
-GCP: VM, GCS and Bigquery
+
+GCP: VM, GCS and BigQuery
 dbt
+
 Spark
+
 Kafka
 
+
 vscode
+
 postgreSQL
+
 pgAdmin
 
 ---
@@ -33,18 +49,26 @@ pgAdmin
 Certificates from courses:
 
 Complete SQL and Databases Bootcamp: Zero to Mastery
+
 Some of the topics: SQL, postgreSQL, relational database theory, normalisation.
+
 Tools: Valentina Studio, psql
+
 https://www.udemy.com/certificate/UC-920132c5-ad71-417f-869e-4242df71016b/
 
 Relational Database
-Topics: SQL, hands on creation and querying postgreSQL databases, git version control, 
+
+Topics: SQL, hands on creation and querying postgreSQL databases, git version control
+
 Tools: bash, psql
+
 https://www.freecodecamp.org/certification/larsskaret/relational-database-v8
 
 Scientific Computing with Python
+
 Basically the Python for everyone course with 'Dr. Chuck'
 Basic intro to Python including OOP and SQLite
+
 https://www.freecodecamp.org/certification/larsskaret/scientific-computing-with-python-v7
 <!--
 **larsskaret/larsskaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
