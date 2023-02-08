@@ -50,7 +50,7 @@ Certificates from courses:
 
 **Complete SQL and Databases Bootcamp: Zero to Mastery**
 
-Some of the topics: SQL, postgreSQL, relational database theory, normalisation.
+Some of the topics: SQL, postgreSQL, relational database theory, mainly OLTP, normalisation.
 
 Tools: Valentina Studio, psql
 
