@@ -2,7 +2,7 @@
 
 Started a learning journey in the data engineer domain.
 
-Currently working on
+Currently working on **Data Engineering Zoomcamp**
 
 https://github.com/DataTalksClub/data-engineering-zoomcamp
 
@@ -37,7 +37,6 @@ Spark
 
 Kafka
 
-
 vscode
 
 postgreSQL
@@ -48,7 +47,7 @@ pgAdmin
 
 Certificates from courses:
 
-Complete SQL and Databases Bootcamp: Zero to Mastery
+**Complete SQL and Databases Bootcamp: Zero to Mastery**
 
 Some of the topics: SQL, postgreSQL, relational database theory, normalisation.
 
@@ -56,7 +55,7 @@ Tools: Valentina Studio, psql
 
 https://www.udemy.com/certificate/UC-920132c5-ad71-417f-869e-4242df71016b/
 
-Relational Database
+**Relational Database: freecodecamp**
 
 Topics: SQL, hands on creation and querying postgreSQL databases, git version control
 
@@ -64,7 +63,7 @@ Tools: bash, psql
 
 https://www.freecodecamp.org/certification/larsskaret/relational-database-v8
 
-Scientific Computing with Python
+**Scientific Computing with Python: freecodecamp**
 
 Basically the Python for everyone course with 'Dr. Chuck'
 Basic intro to Python including OOP and SQLite
