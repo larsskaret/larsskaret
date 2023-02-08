@@ -8,45 +8,30 @@ https://github.com/DataTalksClub/data-engineering-zoomcamp
 
 **Topics:**
 
-Hands on end to end data pipeline using cloud.
-
-Workflow Orchestration
-
-Data Warehouse
-
-Analytics Engineering
-
-Batch processing
-
-Streaming
-
-Create own end to end data pipeline project
+- Hands on end to end data pipeline using cloud.
+- Workflow Orchestration
+- Data Warehouse
+- Analytics Engineering
+- Batch processing
+- Streaming
+- Create own end to end data pipeline project
 
 **Tools:**
 
-Docker
-
-Terraform
-
-Prefect
-
-GCP: VM, GCS and BigQuery
-
-dbt
-
-Spark
-
-Kafka
-
-vscode
-
-postgreSQL
-
-pgAdmin
+- Docker
+- Terraform
+- Prefect
+- GCP: VM, GCS and BigQuery
+- dbt
+- Spark
+- Kafka
+- vscode
+- postgreSQL
+- pgAdmin
 
 ---
 
-Certificates from courses:
+### Certificates from courses:
 
 **Complete SQL and Databases Bootcamp: Zero to Mastery**
 
