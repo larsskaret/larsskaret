@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Started a learning journey in the data engineer domain.
+Started a learning journey in the data domain.
 
 Currently learning a lot in **Data Engineering Zoomcamp**
 
