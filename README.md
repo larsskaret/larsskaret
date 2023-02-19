@@ -31,6 +31,11 @@ https://github.com/DataTalksClub/data-engineering-zoomcamp
 - Google Looker
 - piperider
 
+**Languages:**
+
+- Python
+- SQL
+- Jinja (for dbt)
 ---
 
 ### Certificates from courses:
