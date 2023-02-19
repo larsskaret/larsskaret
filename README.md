@@ -28,7 +28,7 @@ https://github.com/DataTalksClub/data-engineering-zoomcamp
 - vscode
 - postgreSQL
 - pgAdmin
-- Google Looker
+- Google Looker Studio
 - piperider
 
 **Languages:**
