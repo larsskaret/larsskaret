@@ -2,9 +2,9 @@
 
 Started a learning journey in the data domain.
 
-Currently learning a lot in **Data Engineering Zoomcamp**
+Currently learning a lot in [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
-https://github.com/DataTalksClub/data-engineering-zoomcamp
+[My homework](https://github.com/larsskaret/DataTalksClub_Data-Engineering)
 
 **Topics:**
 
