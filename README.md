@@ -3,6 +3,7 @@
 Started a learning journey in the data domain.
 
 Currently learning a lot in [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+[This year's cohort syllabus and deadlines](https://docs.google.com/spreadsheets/d/e/2PACX-1vSm_klXN3BzrRr7EjpEu_TDTZIQRkoEcCJriF3JdZgk6kPEHD1mxDQn8JvpEzCDpndQB-jE8red3NJj/pubhtml)
 
 [My homework](https://github.com/larsskaret/DataTalksClub_Data-Engineering)
 
