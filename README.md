@@ -8,7 +8,7 @@ Currently learning a lot in [Data Engineering Zoomcamp](https://github.com/DataT
 
 [My homework](https://github.com/larsskaret/DataTalksClub_Data-Engineering)
 
-[My first end to end pipeline](https://github.com/larsskaret/ais-pipeline)
+[My first end to end pipeline project](https://github.com/larsskaret/ais-pipeline)
 
 **Topics:**
 
