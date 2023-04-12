@@ -20,12 +20,12 @@ Currently learning a lot in [Data Engineering Zoomcamp](https://github.com/DataT
 - Streaming
 - Create own end to end data pipeline project
 
-**Tools:**
+**Tech stack:**
 
 - Docker
 - Terraform
 - Prefect
-- GCP: VM, GCS and BigQuery
+- GCP: Compute engine, GCS and BigQuery
 - dbt
 - Spark
 - Kafka
@@ -39,6 +39,7 @@ Currently learning a lot in [Data Engineering Zoomcamp](https://github.com/DataT
 
 - Python
 - SQL
+- HCL
 - Jinja (for dbt)
 ---
 
