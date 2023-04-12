@@ -40,6 +40,7 @@ Currently learning a lot in [Data Engineering Zoomcamp](https://github.com/DataT
 - Python
 - SQL
 - HCL
+- Shell
 - Jinja (for dbt)
 ---
 
