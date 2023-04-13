@@ -44,11 +44,11 @@ Currently learning a lot in [Data Engineering Zoomcamp](https://github.com/DataT
 - Jinja (for dbt)
 ---
 
-### Certificates from courses:
+### Course certificates:
 
 **Complete SQL and Databases Bootcamp: Zero to Mastery**
 
-Some of the topics: SQL, postgreSQL, relational database theory, mainly OLTP, normalisation.
+Some of the topics: SQL, postgreSQL, relational database theory, mainly OLTP, normalization.
 
 Tools: Valentina Studio, psql
 
