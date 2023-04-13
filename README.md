@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Started a learning journey in the data domain.
+Started a learning journey in the data domain. [Course certificates](https://github.com/larsskaret#certificates-from-courses)
 
 Currently learning a lot in [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
