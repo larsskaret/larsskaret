@@ -1,50 +1,23 @@
 ### Hi there 👋
 
-Started a learning journey in the data domain. [Course certificates](https://github.com/larsskaret#certificates-from-courses)
+Started a learning journey in the data domain.
 
-Currently learning a lot in [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+### Course certificates:
 
-[This year's cohort syllabus and deadlines](https://docs.google.com/spreadsheets/d/e/2PACX-1vSm_klXN3BzrRr7EjpEu_TDTZIQRkoEcCJriF3JdZgk6kPEHD1mxDQn8JvpEzCDpndQB-jE8red3NJj/pubhtml)
+**Data Engineering Zoomcamp**
 
-[My homework](https://github.com/larsskaret/DataTalksClub_Data-Engineering)
+Hands on end to end data pipeline using cloud.
+
+10 week course
+
+[More information](https://github.com/larsskaret/DataTalksClub_Data-Engineering)
+
+The final deliverable was to create an end to end pipeline. Showcasing what I have learned and choosing the data source and software tools freely.
+
 
 [My first end to end pipeline project](https://github.com/larsskaret/ais-pipeline)
 
-**Topics:**
-
-- Hands on end to end data pipeline using cloud.
-- Workflow Orchestration
-- Data Warehouse
-- Analytics Engineering
-- Batch processing
-- Streaming
-- Create own end to end data pipeline project
-
-**Tech stack:**
-
-- Docker
-- Terraform
-- Prefect
-- GCP: Compute engine, GCS and BigQuery
-- dbt
-- Spark
-- Kafka
-- vscode
-- postgreSQL
-- pgAdmin
-- Google Looker Studio
-- piperider
-
-**Languages:**
-
-- Python
-- SQL
-- HCL
-- Shell
-- Jinja (for dbt)
----
-
-### Course certificates:
+[Certificate](https://github.com/larsskaret/larsskaret/blob/main/Assets/DE%20Zoomcamp%20cert.pdf)
 
 **Complete SQL and Databases Bootcamp: Zero to Mastery**
 
@@ -52,7 +25,7 @@ Some of the topics: SQL, postgreSQL, relational database theory, mainly OLTP, no
 
 Tools: Valentina Studio, psql
 
-https://www.udemy.com/certificate/UC-920132c5-ad71-417f-869e-4242df71016b/
+[Certificate](https://www.udemy.com/certificate/UC-920132c5-ad71-417f-869e-4242df71016b/)
 
 **Relational Database: freecodecamp**
 
@@ -60,14 +33,14 @@ Topics: SQL, hands on creation and querying postgreSQL databases, git version co
 
 Tools: bash, psql
 
-https://www.freecodecamp.org/certification/larsskaret/relational-database-v8
+[Certificate](https://www.freecodecamp.org/certification/larsskaret/relational-database-v8)
 
 **Scientific Computing with Python: freecodecamp**
 
 Basically the Python for everyone course with 'Dr. Chuck'
 Basic intro to Python including OOP and SQLite
 
-https://www.freecodecamp.org/certification/larsskaret/scientific-computing-with-python-v7
+[Certificate](https://www.freecodecamp.org/certification/larsskaret/scientific-computing-with-python-v7)
 <!--
 **larsskaret/larsskaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
